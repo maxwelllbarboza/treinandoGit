@@ -1,2 +1,2 @@
 ﻿# treinandoGit
-testando tudo
+testando tudo todas as vezes tenho que atualizar.
